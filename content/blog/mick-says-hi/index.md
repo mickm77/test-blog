@@ -1,6 +1,6 @@
 ---
 title:Yo!?!
-date: "2019-09-27"
+date: "2019-09-27T00:38.02.267Z"
 description: "Yo Post"
 ---
 
